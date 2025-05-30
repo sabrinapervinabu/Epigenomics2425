@@ -1,5 +1,5 @@
 # ChIP-seq Analysis Pipeline
-This repository contains a reproducible workflow for analyzing ChIP-seq data, combining a shell-based pipeline and R scripts for downstream analysis. It includes quality filtering, peak calling, blacklist filtering, chromatin state visualization, and gene annotation summary based on GREAT output.
+This repository contains a reproducible workflow for analyzing ChIP-seq data, combining a shell-based pipeline and R scripts for downstream analysis. It includes quality filtering, peak calling, blacklist filtering, chromatin state visualization, and gene annotation summary based on GREAT output. 
 
 ### Overview
 The analysis pipeline is composed of three main parts:
