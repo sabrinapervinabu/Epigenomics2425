@@ -41,7 +41,7 @@ The analysis pipeline is composed of three main parts:
    source("chromatin_states_plot.R")
    ```
 ## 3. **R script for GREAT results processing (`great_gene_count.R`)**  
-    great_gene_count.R is designed to assist in post-processing of GREAT analysis results, specifically to answer the following biological       questions related to transcription factor (TF) binding:
+   great_gene_count.R is designed to assist in post-processing of GREAT analysis results, specifically to answer the following biological       questions related to transcription factor (TF) binding:
 
   - How many genes are associated with TF binding at the promoter region?
   - How many genes are associated with TF binding at distal regulatory regions?
